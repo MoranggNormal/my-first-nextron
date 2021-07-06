@@ -1,38 +1,8 @@
-<p align="center"><img src="https://i.imgur.com/X7dSE68.png"></p>
+#TESTING MY FIRST NEXTRON APP:
 
-## Usage
+1 - compiled to Linux: DONE!
 
-### Create an App
+2 - deployed on Vercel: FAIL!
 
-```
-# with npx
-$ npx create-nextron-app my-app --example with-javascript
-
-# with yarn
-$ yarn create nextron-app my-app --example with-javascript
-
-# with pnpx
-$ pnpx create-nextron-app my-app --example with-javascript
-```
-
-### Install Dependencies
-
-```
-$ cd my-app
-
-# using yarn or npm
-$ yarn (or `npm install`)
-
-# using pnpm
-$ pnpm install --shamefully-hoist
-```
-
-### Use it
-
-```
-# development mode
-$ yarn dev (or `npm run dev` or `pnpm run dev`)
-
-# production build
-$ yarn build (or `npm run build` or `pnpm run build`)
-```
+##What now?
+Go and create an raw next app and add Electron(Serve, Store and Builder).
